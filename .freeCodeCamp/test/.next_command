@@ -11,3 +11,4 @@ help pg_dump
 pg-dump --help
 pg_dump --help
 pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+git add .
